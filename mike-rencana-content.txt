@@ -4,6 +4,7 @@ RENCANA KONTEN MIKE
   * ES6
   * Framework Javascript
    ^ Vue
+   ^ React JS
 - Struktur Data Dasar
 - PHP Frameworks
    ^ Laravel
