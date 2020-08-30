@@ -3,9 +3,11 @@ RENCANA KONTEN MIKE
 - Javascript
   * ES6
   * Framework Javascript
-   ^ Angular
-   ^ React
-- PHP Framework
+   ^ Vue
+   ^ React JS
+- Struktur Data Dasar
+- PHP Frameworks
    ^ Laravel
 - Interview
 - Vlogs
+- Phyton
